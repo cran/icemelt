@@ -1,0 +1,8 @@
+useDynLib(icemelt)
+export(im)
+export(imw1)
+export(nv)
+export(rc)
+export(rcw1)
+import(survival)
+import(stats)

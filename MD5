@@ -1,0 +1,11 @@
+8d626bcbd8a185db88fc8bb383e72534 *DESCRIPTION
+4d971ed92be862bb84129c5290139a6e *NAMESPACE
+4b0bf510af17b20ac5ea9f3b131d5618 *R/semiparall.R
+60bb409101cab1b1ba0b0df777a4fd03 *build/partial.rdb
+edde8e4f79f9d7f299afeaa6e0e6af55 *man/icemelt-package.Rd
+145aa16c179f67bc3690d6e8db4c4e98 *man/im.Rd
+653a1389bc69f4718ccebb313ffa6153 *man/imw1.Rd
+7fee85375351dc1403e6f31532a701ab *man/nv.Rd
+0b5a69ca749505deb438a012b38e9ea7 *man/rc.Rd
+055c9618e51d147f83a596563a503741 *man/rcw1.Rd
+59f56820b27800906ee9c946ded3de2c *src/icemelt.f90
